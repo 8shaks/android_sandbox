@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Shakiran Sathiyanathan</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed venenatis lacus. Aenean non tellus ac massa scelerisque rutrum. Nam id nibh purus. Nam mi diam, fringilla non congue vitae, fermentum maximus felis. Fusce tempor tempor massa eu viverra. Donec id orci eu ex vestibulum placerat. Nunc eleifend justo vestibulum viverra vulputate. Proin ut viverra mi. Nulla sit amet pulvinar urna. Vestibulum vel pulvinar lacus. Quisque justo tellus, sodales quis pretium non, lacinia eu massa. Praesent commodo metus eget tortor auctor varius. Proin gravida eros sit amet erat imperdiet, sed aliquam risus rhoncus. Nam ac leo a nulla luctus sagittis.
+
+Curabitur vestibulum in purus et elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin felis elit, consequat eu ante a, mattis feugiat erat. Praesent nisi dui, molestie sed lacus vitae, mattis viverra dolor. Pellentesque vel arcu pulvinar, malesuada enim in, ullamcorper augue. Mauris quam nisi, fermentum nec augue a, mollis egestas risus. Aliquam erat volutpat. Maecenas venenatis ex at venenatis iaculis. Integer diam ex, commodo euismod sodales ac, tincidunt nec mauris. Pellentesque enim metus, viverra eu faucibus vitae, imperdiet sed neque. Curabitur pellentesque hendrerit elementum. Donec vestibulum porttitor elit. Ut ac mollis neque. Nam ullamcorper facilisis tincidunt. Pellentesque tempor viverra nunc, id ultricies tortor efficitur quis.</string>
+    <string name="WhatIsYurNickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
